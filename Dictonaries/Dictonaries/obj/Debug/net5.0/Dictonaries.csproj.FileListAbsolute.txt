@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.exe
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.deps.json
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.runtimeconfig.json
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.dll
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\bin\Debug\net5.0\ref\Dictonaries.dll
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.pdb
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.dll
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\obj\Debug\net5.0\ref\Dictonaries.dll
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.pdb
+C:\Users\Danielch\source\repos\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.genruntimeconfig.cache

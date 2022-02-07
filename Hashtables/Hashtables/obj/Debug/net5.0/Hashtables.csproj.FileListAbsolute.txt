@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.exe
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.deps.json
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.runtimeconfig.json
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.dll
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\bin\Debug\net5.0\ref\Hashtables.dll
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.pdb
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.dll
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\obj\Debug\net5.0\ref\Hashtables.dll
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.pdb
+C:\Users\Danielch\source\repos\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\bin\Debug\net5.0\ThreadJoiningE.exe
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\bin\Debug\net5.0\ThreadJoiningE.deps.json
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\bin\Debug\net5.0\ThreadJoiningE.runtimeconfig.json
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\bin\Debug\net5.0\ThreadJoiningE.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\bin\Debug\net5.0\ThreadJoiningE.dll
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\bin\Debug\net5.0\ref\ThreadJoiningE.dll
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\bin\Debug\net5.0\ThreadJoiningE.pdb
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\net5.0\ThreadJoiningE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\net5.0\ThreadJoiningE.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\net5.0\ThreadJoiningE.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\net5.0\ThreadJoiningE.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\net5.0\ThreadJoiningE.dll
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\net5.0\ref\ThreadJoiningE.dll
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\net5.0\ThreadJoiningE.pdb
+C:\Users\Danielch\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\net5.0\ThreadJoiningE.genruntimeconfig.cache

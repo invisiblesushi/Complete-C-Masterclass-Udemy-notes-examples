@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\bin\Debug\net5.0\Members and finalizers destructors.exe
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\bin\Debug\net5.0\Members and finalizers destructors.deps.json
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\bin\Debug\net5.0\Members and finalizers destructors.runtimeconfig.json
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\bin\Debug\net5.0\Members and finalizers destructors.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\bin\Debug\net5.0\Members and finalizers destructors.dll
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\bin\Debug\net5.0\ref\Members and finalizers destructors.dll
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\bin\Debug\net5.0\Members and finalizers destructors.pdb
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\obj\Debug\net5.0\Members and finalizers destructors.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\obj\Debug\net5.0\Members and finalizers destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\obj\Debug\net5.0\Members and finalizers destructors.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\obj\Debug\net5.0\Members and finalizers destructors.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\obj\Debug\net5.0\Members and finalizers destructors.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\obj\Debug\net5.0\Members and finalizers destructors.dll
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\obj\Debug\net5.0\ref\Members and finalizers destructors.dll
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\obj\Debug\net5.0\Members and finalizers destructors.pdb
+C:\Users\Danielch\source\repos\Members and finalizers destructors\Members and finalizers destructors\obj\Debug\net5.0\Members and finalizers destructors.genruntimeconfig.cache

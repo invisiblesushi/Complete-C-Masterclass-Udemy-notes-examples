@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\StructsC\StructsC\bin\Debug\net5.0\StructsC.exe
+C:\Users\Danielch\source\repos\StructsC\StructsC\bin\Debug\net5.0\StructsC.deps.json
+C:\Users\Danielch\source\repos\StructsC\StructsC\bin\Debug\net5.0\StructsC.runtimeconfig.json
+C:\Users\Danielch\source\repos\StructsC\StructsC\bin\Debug\net5.0\StructsC.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\StructsC\StructsC\bin\Debug\net5.0\StructsC.dll
+C:\Users\Danielch\source\repos\StructsC\StructsC\bin\Debug\net5.0\ref\StructsC.dll
+C:\Users\Danielch\source\repos\StructsC\StructsC\bin\Debug\net5.0\StructsC.pdb
+C:\Users\Danielch\source\repos\StructsC\StructsC\obj\Debug\net5.0\StructsC.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\StructsC\StructsC\obj\Debug\net5.0\StructsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\StructsC\StructsC\obj\Debug\net5.0\StructsC.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\StructsC\StructsC\obj\Debug\net5.0\StructsC.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\StructsC\StructsC\obj\Debug\net5.0\StructsC.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\StructsC\StructsC\obj\Debug\net5.0\StructsC.dll
+C:\Users\Danielch\source\repos\StructsC\StructsC\obj\Debug\net5.0\ref\StructsC.dll
+C:\Users\Danielch\source\repos\StructsC\StructsC\obj\Debug\net5.0\StructsC.pdb
+C:\Users\Danielch\source\repos\StructsC\StructsC\obj\Debug\net5.0\StructsC.genruntimeconfig.cache

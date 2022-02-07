@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\bin\Debug\net5.0\ParamsExample.exe
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\bin\Debug\net5.0\ParamsExample.deps.json
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\bin\Debug\net5.0\ParamsExample.runtimeconfig.json
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\bin\Debug\net5.0\ParamsExample.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\bin\Debug\net5.0\ParamsExample.dll
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\bin\Debug\net5.0\ref\ParamsExample.dll
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\bin\Debug\net5.0\ParamsExample.pdb
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\obj\Debug\net5.0\ParamsExample.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\obj\Debug\net5.0\ParamsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\obj\Debug\net5.0\ParamsExample.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\obj\Debug\net5.0\ParamsExample.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\obj\Debug\net5.0\ParamsExample.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\obj\Debug\net5.0\ParamsExample.dll
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\obj\Debug\net5.0\ref\ParamsExample.dll
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\obj\Debug\net5.0\ParamsExample.pdb
+C:\Users\Danielch\source\repos\ParamsExample\ParamsExample\obj\Debug\net5.0\ParamsExample.genruntimeconfig.cache

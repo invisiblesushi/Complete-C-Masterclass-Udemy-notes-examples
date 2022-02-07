@@ -1,0 +1,15 @@
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\bin\Debug\net5.0\StacksDemo.exe
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\bin\Debug\net5.0\StacksDemo.deps.json
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\bin\Debug\net5.0\StacksDemo.runtimeconfig.json
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\bin\Debug\net5.0\StacksDemo.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\bin\Debug\net5.0\StacksDemo.dll
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\bin\Debug\net5.0\ref\StacksDemo.dll
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\bin\Debug\net5.0\StacksDemo.pdb
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\obj\Debug\net5.0\StacksDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\obj\Debug\net5.0\StacksDemo.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\obj\Debug\net5.0\StacksDemo.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\obj\Debug\net5.0\StacksDemo.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\obj\Debug\net5.0\StacksDemo.dll
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\obj\Debug\net5.0\ref\StacksDemo.dll
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\obj\Debug\net5.0\StacksDemo.pdb
+C:\Users\Danielch\source\repos\StacksDemo\StacksDemo\obj\Debug\net5.0\StacksDemo.genruntimeconfig.cache

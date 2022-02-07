@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.exe
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.deps.json
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.runtimeconfig.json
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.dll
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\ref\Multi Dimensional Arrays.dll
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\bin\Debug\net5.0\Multi Dimensional Arrays.pdb
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.dll
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\ref\Multi Dimensional Arrays.dll
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.pdb
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.genruntimeconfig.cache
+C:\Users\Danielch\source\repos\Multi Dimensional Arrays\Multi Dimensional Arrays\obj\Debug\net5.0\Multi Dimensional Arrays.csproj.AssemblyReference.cache

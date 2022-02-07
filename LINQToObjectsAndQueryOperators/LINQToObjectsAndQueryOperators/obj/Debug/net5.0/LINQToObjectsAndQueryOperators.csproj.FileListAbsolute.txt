@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net5.0\LINQToObjectsAndQueryOperators.exe
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net5.0\LINQToObjectsAndQueryOperators.deps.json
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net5.0\LINQToObjectsAndQueryOperators.runtimeconfig.json
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net5.0\LINQToObjectsAndQueryOperators.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net5.0\LINQToObjectsAndQueryOperators.dll
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net5.0\ref\LINQToObjectsAndQueryOperators.dll
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\net5.0\LINQToObjectsAndQueryOperators.pdb
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net5.0\LINQToObjectsAndQueryOperators.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net5.0\LINQToObjectsAndQueryOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net5.0\LINQToObjectsAndQueryOperators.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net5.0\LINQToObjectsAndQueryOperators.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net5.0\LINQToObjectsAndQueryOperators.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net5.0\LINQToObjectsAndQueryOperators.dll
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net5.0\ref\LINQToObjectsAndQueryOperators.dll
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net5.0\LINQToObjectsAndQueryOperators.pdb
+C:\Users\Danielch\source\repos\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\net5.0\LINQToObjectsAndQueryOperators.genruntimeconfig.cache

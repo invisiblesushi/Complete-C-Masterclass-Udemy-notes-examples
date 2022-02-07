@@ -1,0 +1,15 @@
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.pdb
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\MainWindow.g.cs
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\App.g.cs
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.cache
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL_MarkupCompile.lref
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\MainWindow.baml
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.g.resources
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.Properties.Resources.resources
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.GenerateResource.cache
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.exe
+C:\Users\Danielch\source\repos\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.pdb

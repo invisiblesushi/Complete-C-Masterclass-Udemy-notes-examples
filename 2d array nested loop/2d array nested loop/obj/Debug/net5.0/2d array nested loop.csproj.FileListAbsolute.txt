@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\bin\Debug\net5.0\2d array nested loop.exe
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\bin\Debug\net5.0\2d array nested loop.deps.json
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\bin\Debug\net5.0\2d array nested loop.runtimeconfig.json
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\bin\Debug\net5.0\2d array nested loop.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\bin\Debug\net5.0\2d array nested loop.dll
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\bin\Debug\net5.0\ref\2d array nested loop.dll
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\bin\Debug\net5.0\2d array nested loop.pdb
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\obj\Debug\net5.0\2d array nested loop.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\obj\Debug\net5.0\2d array nested loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\obj\Debug\net5.0\2d array nested loop.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\obj\Debug\net5.0\2d array nested loop.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\obj\Debug\net5.0\2d array nested loop.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\obj\Debug\net5.0\2d array nested loop.dll
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\obj\Debug\net5.0\ref\2d array nested loop.dll
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\obj\Debug\net5.0\2d array nested loop.pdb
+C:\Users\Danielch\source\repos\2d array nested loop\2d array nested loop\obj\Debug\net5.0\2d array nested loop.genruntimeconfig.cache

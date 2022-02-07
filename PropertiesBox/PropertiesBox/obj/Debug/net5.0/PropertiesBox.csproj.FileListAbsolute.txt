@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\obj\Debug\net5.0\PropertiesBox.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\obj\Debug\net5.0\PropertiesBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\obj\Debug\net5.0\PropertiesBox.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\obj\Debug\net5.0\PropertiesBox.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\obj\Debug\net5.0\PropertiesBox.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\bin\Debug\net5.0\PropertiesBox.exe
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\bin\Debug\net5.0\PropertiesBox.deps.json
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\bin\Debug\net5.0\PropertiesBox.runtimeconfig.json
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\bin\Debug\net5.0\PropertiesBox.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\bin\Debug\net5.0\PropertiesBox.dll
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\bin\Debug\net5.0\ref\PropertiesBox.dll
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\bin\Debug\net5.0\PropertiesBox.pdb
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\obj\Debug\net5.0\PropertiesBox.dll
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\obj\Debug\net5.0\ref\PropertiesBox.dll
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\obj\Debug\net5.0\PropertiesBox.pdb
+C:\Users\Danielch\source\repos\PropertiesBox\PropertiesBox\obj\Debug\net5.0\PropertiesBox.genruntimeconfig.cache

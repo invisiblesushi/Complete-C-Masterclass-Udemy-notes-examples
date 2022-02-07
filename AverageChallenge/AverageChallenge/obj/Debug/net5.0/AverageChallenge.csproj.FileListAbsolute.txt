@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\bin\Debug\net5.0\AverageChallenge.exe
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\bin\Debug\net5.0\AverageChallenge.deps.json
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\bin\Debug\net5.0\AverageChallenge.runtimeconfig.json
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\bin\Debug\net5.0\AverageChallenge.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\bin\Debug\net5.0\AverageChallenge.dll
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\bin\Debug\net5.0\ref\AverageChallenge.dll
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\bin\Debug\net5.0\AverageChallenge.pdb
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\obj\Debug\net5.0\AverageChallenge.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\obj\Debug\net5.0\AverageChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\obj\Debug\net5.0\AverageChallenge.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\obj\Debug\net5.0\AverageChallenge.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\obj\Debug\net5.0\AverageChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\obj\Debug\net5.0\AverageChallenge.dll
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\obj\Debug\net5.0\ref\AverageChallenge.dll
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\obj\Debug\net5.0\AverageChallenge.pdb
+C:\Users\Danielch\source\repos\AverageChallenge\AverageChallenge\obj\Debug\net5.0\AverageChallenge.genruntimeconfig.cache

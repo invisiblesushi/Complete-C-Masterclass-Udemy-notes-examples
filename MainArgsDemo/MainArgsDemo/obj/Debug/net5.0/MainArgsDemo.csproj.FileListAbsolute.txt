@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.exe
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.deps.json
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.runtimeconfig.json
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.dll
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\net5.0\ref\MainArgsDemo.dll
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.pdb
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.dll
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\net5.0\ref\MainArgsDemo.dll
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.pdb
+C:\Users\Danielch\source\repos\MainArgsDemo\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.genruntimeconfig.cache

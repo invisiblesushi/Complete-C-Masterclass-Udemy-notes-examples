@@ -1,0 +1,15 @@
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\WPFTasksE.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\MainWindow.g.cs
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\App.g.cs
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\WPFTasksE_MarkupCompile.cache
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\WPFTasksE_MarkupCompile.lref
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\bin\Debug\WPFTasksE.exe.config
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\bin\Debug\WPFTasksE.exe
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\bin\Debug\WPFTasksE.pdb
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\MainWindow.baml
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\WPFTasksE.g.resources
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\WPFTasksE.Properties.Resources.resources
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\WPFTasksE.csproj.GenerateResource.cache
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\WPFTasksE.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\WPFTasksE.exe
+C:\Users\Danielch\source\repos\WPFTasksE\WPFTasksE\obj\Debug\WPFTasksE.pdb

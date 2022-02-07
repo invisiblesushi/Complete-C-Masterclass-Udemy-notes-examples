@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\obj\Debug\net5.0\PolymorphismC.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\obj\Debug\net5.0\PolymorphismC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\obj\Debug\net5.0\PolymorphismC.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\obj\Debug\net5.0\PolymorphismC.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\obj\Debug\net5.0\PolymorphismC.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\bin\Debug\net5.0\PolymorphismC.exe
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\bin\Debug\net5.0\PolymorphismC.deps.json
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\bin\Debug\net5.0\PolymorphismC.runtimeconfig.json
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\bin\Debug\net5.0\PolymorphismC.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\bin\Debug\net5.0\PolymorphismC.dll
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\bin\Debug\net5.0\ref\PolymorphismC.dll
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\bin\Debug\net5.0\PolymorphismC.pdb
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\obj\Debug\net5.0\PolymorphismC.dll
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\obj\Debug\net5.0\ref\PolymorphismC.dll
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\obj\Debug\net5.0\PolymorphismC.pdb
+C:\Users\Danielch\source\repos\PolymorphismC\PolymorphismC\obj\Debug\net5.0\PolymorphismC.genruntimeconfig.cache

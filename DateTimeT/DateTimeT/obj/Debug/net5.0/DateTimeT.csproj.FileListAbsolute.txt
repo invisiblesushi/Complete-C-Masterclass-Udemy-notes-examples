@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\obj\Debug\net5.0\DateTimeT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\obj\Debug\net5.0\DateTimeT.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\obj\Debug\net5.0\DateTimeT.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\obj\Debug\net5.0\DateTimeT.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\bin\Debug\net5.0\DateTimeT.exe
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\bin\Debug\net5.0\DateTimeT.deps.json
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\bin\Debug\net5.0\DateTimeT.runtimeconfig.json
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\bin\Debug\net5.0\DateTimeT.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\bin\Debug\net5.0\DateTimeT.dll
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\bin\Debug\net5.0\ref\DateTimeT.dll
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\bin\Debug\net5.0\DateTimeT.pdb
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\obj\Debug\net5.0\DateTimeT.dll
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\obj\Debug\net5.0\ref\DateTimeT.dll
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\obj\Debug\net5.0\DateTimeT.pdb
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\obj\Debug\net5.0\DateTimeT.genruntimeconfig.cache
+C:\Users\Danielch\source\repos\DateTimeT\DateTimeT\obj\Debug\net5.0\DateTimeT.csproj.AssemblyReference.cache

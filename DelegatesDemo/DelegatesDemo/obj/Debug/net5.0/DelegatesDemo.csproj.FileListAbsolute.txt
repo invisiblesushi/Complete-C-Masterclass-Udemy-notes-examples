@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.exe
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.deps.json
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.runtimeconfig.json
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.dll
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\ref\DelegatesDemo.dll
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.pdb
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.dll
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\ref\DelegatesDemo.dll
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.pdb
+C:\Users\Danielch\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.genruntimeconfig.cache

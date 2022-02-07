@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\bin\Debug\net5.0\ArrayParameter.exe
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\bin\Debug\net5.0\ArrayParameter.deps.json
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\bin\Debug\net5.0\ArrayParameter.runtimeconfig.json
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\bin\Debug\net5.0\ArrayParameter.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\bin\Debug\net5.0\ArrayParameter.dll
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\bin\Debug\net5.0\ref\ArrayParameter.dll
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\bin\Debug\net5.0\ArrayParameter.pdb
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\obj\Debug\net5.0\ArrayParameter.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\obj\Debug\net5.0\ArrayParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\obj\Debug\net5.0\ArrayParameter.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\obj\Debug\net5.0\ArrayParameter.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\obj\Debug\net5.0\ArrayParameter.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\obj\Debug\net5.0\ArrayParameter.dll
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\obj\Debug\net5.0\ref\ArrayParameter.dll
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\obj\Debug\net5.0\ArrayParameter.pdb
+C:\Users\Danielch\source\repos\ArrayParameter\ArrayParameter\obj\Debug\net5.0\ArrayParameter.genruntimeconfig.cache

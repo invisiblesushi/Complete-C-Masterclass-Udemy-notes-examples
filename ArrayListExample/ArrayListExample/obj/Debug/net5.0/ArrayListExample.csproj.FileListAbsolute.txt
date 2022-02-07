@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\bin\Debug\net5.0\ArrayListExample.exe
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\bin\Debug\net5.0\ArrayListExample.deps.json
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\bin\Debug\net5.0\ArrayListExample.runtimeconfig.json
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\bin\Debug\net5.0\ArrayListExample.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\bin\Debug\net5.0\ArrayListExample.dll
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\bin\Debug\net5.0\ref\ArrayListExample.dll
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\bin\Debug\net5.0\ArrayListExample.pdb
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\obj\Debug\net5.0\ArrayListExample.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\obj\Debug\net5.0\ArrayListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\obj\Debug\net5.0\ArrayListExample.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\obj\Debug\net5.0\ArrayListExample.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\obj\Debug\net5.0\ArrayListExample.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\obj\Debug\net5.0\ArrayListExample.dll
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\obj\Debug\net5.0\ref\ArrayListExample.dll
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\obj\Debug\net5.0\ArrayListExample.pdb
+C:\Users\Danielch\source\repos\ArrayListExample\ArrayListExample\obj\Debug\net5.0\ArrayListExample.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\bin\Debug\net5.0\Challenge 1 – String and its methods.exe
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\bin\Debug\net5.0\Challenge 1 – String and its methods.deps.json
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\bin\Debug\net5.0\Challenge 1 – String and its methods.runtimeconfig.json
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\bin\Debug\net5.0\Challenge 1 – String and its methods.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\bin\Debug\net5.0\Challenge 1 – String and its methods.dll
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\bin\Debug\net5.0\ref\Challenge 1 – String and its methods.dll
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\bin\Debug\net5.0\Challenge 1 – String and its methods.pdb
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\obj\Debug\net5.0\Challenge 1 – String and its methods.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\obj\Debug\net5.0\Challenge 1 – String and its methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\obj\Debug\net5.0\Challenge 1 – String and its methods.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\obj\Debug\net5.0\Challenge 1 – String and its methods.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\obj\Debug\net5.0\Challenge 1 – String and its methods.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\obj\Debug\net5.0\Challenge 1 – String and its methods.dll
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\obj\Debug\net5.0\ref\Challenge 1 – String and its methods.dll
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\obj\Debug\net5.0\Challenge 1 – String and its methods.pdb
+C:\Users\Danielch\source\repos\Challenge 1 – String and its methods\Challenge 1 – String and its methods\obj\Debug\net5.0\Challenge 1 – String and its methods.genruntimeconfig.cache

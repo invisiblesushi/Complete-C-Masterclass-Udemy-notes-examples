@@ -1,0 +1,16 @@
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\bin\Debug\net5.0\ForEach and Switch.exe
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\bin\Debug\net5.0\ForEach and Switch.deps.json
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\bin\Debug\net5.0\ForEach and Switch.runtimeconfig.json
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\bin\Debug\net5.0\ForEach and Switch.runtimeconfig.dev.json
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\bin\Debug\net5.0\ForEach and Switch.dll
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\bin\Debug\net5.0\ref\ForEach and Switch.dll
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\bin\Debug\net5.0\ForEach and Switch.pdb
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\obj\Debug\net5.0\ForEach and Switch.csproj.AssemblyReference.cache
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\obj\Debug\net5.0\ForEach and Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\obj\Debug\net5.0\ForEach and Switch.AssemblyInfoInputs.cache
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\obj\Debug\net5.0\ForEach and Switch.AssemblyInfo.cs
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\obj\Debug\net5.0\ForEach and Switch.csproj.CoreCompileInputs.cache
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\obj\Debug\net5.0\ForEach and Switch.dll
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\obj\Debug\net5.0\ref\ForEach and Switch.dll
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\obj\Debug\net5.0\ForEach and Switch.pdb
+C:\Users\Danielch\source\repos\ForEach and Switch\ForEach and Switch\obj\Debug\net5.0\ForEach and Switch.genruntimeconfig.cache
